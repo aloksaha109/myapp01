@@ -4,3 +4,4 @@ Added feature 002
 Changed as part of release 001
 Added feature 003
 Added feature 004
+Hotfix 001
